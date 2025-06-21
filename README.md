@@ -36,11 +36,13 @@ The filters panel is designed for efficiency, enabling quick filtering by region
 
  Finance Dashboard
 Track profit margins, operating expenses, return on equity (ROE), and more, all in one place.
+
 ![Finance_dashboard](https://github.com/user-attachments/assets/6ffff039-46dc-4740-ac87-90d8a7abe0da)
 
 Sales & Marketing Dashboards
 Analyze sales metrics like growth rate, total sales, and average order value.
 Evaluate marketing effectiveness with metrics like leads, conversion rates, and opportunities.
+
 ![Sales Marketing_1](https://github.com/user-attachments/assets/42f9f8dc-ef42-49f9-a1e5-1b845a001e21)
 
 
