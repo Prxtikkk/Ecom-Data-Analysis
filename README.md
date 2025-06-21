@@ -28,6 +28,29 @@ How effective is our marketing?
 
 Are we profitable and sustainable?
 
+Optimized Filters Panel
+The filters panel is designed for efficiency, enabling quick filtering by region, customer segments, and time periods.
+
+![FiltersPanel(lightMode)](https://github.com/user-attachments/assets/df224791-c958-4b3c-83ce-66f30cdb78b7)
+
+
+ Finance Dashboard
+Track profit margins, operating expenses, return on equity (ROE), and more, all in one place.
+![Finance_dashboard](https://github.com/user-attachments/assets/6ffff039-46dc-4740-ac87-90d8a7abe0da)
+
+Sales & Marketing Dashboards
+Analyze sales metrics like growth rate, total sales, and average order value.
+Evaluate marketing effectiveness with metrics like leads, conversion rates, and opportunities.
+![Sales Marketing_1](https://github.com/user-attachments/assets/42f9f8dc-ef42-49f9-a1e5-1b845a001e21)
+
+
+🗺️ Data Model View
+Get a clear view of how your data tables relate to each other, including Orders, Returns, Location, and People.
+
+![Model_View](https://github.com/user-attachments/assets/426fa15b-af64-4033-a7df-340ae996a564)
+
+
+
 🛠️ Getting Started
 
 Requirements 🧾
